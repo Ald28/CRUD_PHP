@@ -60,7 +60,7 @@
                                         name="dni"
                                         id="dni"
                                         placeholder="DNI"
-                                        max="9999999"
+                                        maxlength="7"
                                     />
                                 </div>
                                 <div class="mb-3">
